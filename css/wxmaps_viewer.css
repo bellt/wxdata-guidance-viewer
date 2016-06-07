@@ -1,0 +1,65 @@
+#wrapper {
+    margin: 0px auto;
+    font-family: sans-serif;
+    color:#222;
+}
+
+.heading-div {
+    margin:0px 0px 0px 0px;
+    padding:15px 5px 15px 5px;
+    font-size:18px;
+    font-weight:bold;
+    background-color:#5af;
+    text-align: center;
+}
+
+#subheader {
+    font-size:14px;
+    font-weight:normal;
+}
+
+#timeboxes{
+    width: 364px;
+    margin: auto;
+}
+
+.timestep_box {
+    height: 40px;
+    width: 40px;
+    border-radius: 2px;
+    background-color: darkgrey;
+    opacity: 0.5;
+    display: inline-block;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    margin:2px 5px;
+    display: inline-flex; /*flexbox, allows align-items and justify-content to work*/
+    align-items: center;
+    justify-content: center;
+}
+
+#guidance {
+    width: 1560px;
+    margin:auto;
+}
+
+.wx-tile {
+    height: 400px;
+    width: auto;
+    display: inline-block;
+    margin: 0;
+}
+
+.footer-div {
+    background-color:#5af;
+    padding:5px;
+}
+
+.footer-item {
+
+}
+
+.footer-item-right {
+    float:right;
+}
