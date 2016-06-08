@@ -16,7 +16,6 @@ var $setupBoxes = function(){
     });
 }
 
-
 var $changeTimestep = function(timestep){
     var image_url = '';
     $('#guidance').empty(); //clear the previous images
